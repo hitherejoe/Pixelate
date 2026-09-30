@@ -1,0 +1,17 @@
+*.iml
+.gradle
+.kotlin
+build/
+captures
+local.properties
+.idea/
+
+# Kotlin/JS
+kotlin-js-store/
+node_modules/
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.DS_Store
